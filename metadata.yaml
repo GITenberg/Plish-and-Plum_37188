@@ -1,0 +1,50 @@
+_repo: Plish-and-Plum_37188
+_version: 0.1.0
+alternative_title: Plish und Plum. English
+contributor:
+  translator:
+    agent_name: Brooks, Charles Timothy
+    aliases:
+    - Brooks, Charles T.
+    - Aquidneck
+    - Brooks, C. T. (Charles Timothy)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '5536'
+    url: http://www.gutenberg.org/2009/agents/5536
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Busch, Wilhelm
+    alias: Bush, W. (Wilhelm)
+    birthdate: 1832
+    deathdate: 1908
+    gutenberg_agent_id: '4959'
+    url: http://www.gutenberg.org/2009/agents/4959
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Wilhelm_Busch
+    - http://en.wikipedia.org/wiki/Wilhelm_Busch
+description: ''
+gutenberg_issued: '2011-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal welfare -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcc 'PT'
+- !lcsh 'Brothers -- Juvenile poetry'
+- !lcsh 'Pets -- Juvenile poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcsh 'Human-animal relationships -- Juvenile poetry'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Dogs -- Juvenile poetry'
+- !lcsh 'Wit and humor, Juvenile'
+title: Plish and Plum
+url: http://www.gutenberg.org/ebooks/37188
