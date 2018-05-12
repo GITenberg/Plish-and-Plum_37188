@@ -27,6 +27,8 @@ creator:
     - http://de.wikipedia.org/wiki/Wilhelm_Busch
     - http://en.wikipedia.org/wiki/Wilhelm_Busch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37188#Plish-and-Plum
 gutenberg_issued: '2011-08-24'
 gutenberg_type: Text
 identifiers:
